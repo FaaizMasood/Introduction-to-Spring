@@ -4,7 +4,7 @@ public class TrackCoach implements Coach {
 	
 	private FortuneService fortuneservice;
 	
-	public TrackCoach() {}
+	public TrackCoach() {} // this is kind of a hack 
 	public TrackCoach(FortuneService fortuneservice) {
 		super();
 		this.fortuneservice = fortuneservice;

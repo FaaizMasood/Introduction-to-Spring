@@ -20,7 +20,7 @@ public class HelloSpringApp {
 		//System.out.println("Hello");
 		
 		// new method for fortune service
-		System.out.println(theCoach.getDailyFortune());
+		//System.out.println(theCoach.getDailyFortune());
 		
 		// close the context 
 		context.close();
